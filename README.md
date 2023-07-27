@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/PietroBucker)&nbsp;
 [![Portifolio](https://img.shields.io/badge/Portifolio-215422?style=for-the-badge&logoColor=0E76A8)](https://pietrobucker.github.io/react-portifolio/#/)
 
-<img width=100% height=240 src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+<img width=100% height=350 src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
 &nbsp;
 
