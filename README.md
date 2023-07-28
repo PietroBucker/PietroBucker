@@ -40,6 +40,8 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
+</center>
+
 &nbsp;
 
 <div align="center">
@@ -135,34 +137,18 @@
       </tr>
    </tbody>
  </table>
-
- <table width=100%>
-   <tbody>
-      <tr width=100% valign="top" style="display: flex; flex-wrap: wrap;">
-         <h1>Soft Skills</h1>
-         <td width="300px" align="center">
-            <img height="32px" src="https://img.shields.io/badge/Inteligencia Emocional-000?style=for-the-badge&logoColor=0E76A8">
-         </td>
-           <td width="300px" align="center">
-            <img height="32px" src="https://img.shields.io/badge/Vontade de Aprender-000?style=for-the-badge&logoColor=0E76A8">
-         </td>
-         <td width="300px" align="center">
-            <img height="32px" src="https://img.shields.io/badge/Trabalho em Equipe-000?style=for-the-badge&logoColor=0E76A8">
-         </td>
-         <td width="300px" align="center">
-            <img height="32px" src="https://img.shields.io/badge/Trabalho em Equipe-000?style=for-the-badge&logoColor=0E76A8">
-         </td>
-          <td width="300px" align="center">
-            <img height="32px" src="https://img.shields.io/badge/Integridade-000?style=for-the-badge&logoColor=0E76A8">
-         </td>
-          <td width="300px" align="center">
-            <img height="32" src="https://img.shields.io/badge/Growing Mindset-000?style=for-the-badge&logoColor=0E76A8">
-         </td>
-      </tr>
-   </tbody>
- </table>
 </div>
 
 
 
-  
+<center>
+
+### Tools:
+
+![Inteligencia Emocional](https://img.shields.io/badge/-Inteligencia%20Emocional-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Vontade de Aprender](https://img.shields.io/badge/-Vontade%20de%20Aprender-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Mente Aberta](https://img.shields.io/badge/-Mente%20Aberta-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Trabalho em Equipe](https://img.shields.io/badge/-Trabalho%20em%20Equipe-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Integridade](https://img.shields.io/badge/-Integridade-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Growing Mindset](https://img.shields.io/badge/-Growing%20Mindset-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+</center>
