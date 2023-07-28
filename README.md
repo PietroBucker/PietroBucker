@@ -5,6 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pietro-bucker-dev/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/PietroBucker)&nbsp;
+[![Hotmail](https://img.shields.io/badge/hotmail-000?style=for-the-badge&logo=microsoft&logoColor=0E76A8)](pietro_177@hotmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/gamil-000?style=for-the-badge&logo=gmail&logoColor=0E76A8)](https://www.linkedin.com/in/pietro-bucker-dev/)&nbsp;
 [![Portifolio](https://img.shields.io/badge/Portifolio-215422?style=for-the-badge&logoColor=0E76A8)](https://pietrobucker.github.io/react-portifolio/#/)
 
 <img width=100% height=350 src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
@@ -28,9 +30,8 @@
 
 &nbsp;
 
-
 <center>
-  
+
 ### Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
