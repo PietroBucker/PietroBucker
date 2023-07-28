@@ -141,9 +141,11 @@
 
 
 
-<center>teste</center>
 
-# Tools
+
+<h1 align="center">Tools</h1>
+
+<center>
 
 ![Inteligencia Emocional](https://img.shields.io/badge/-Inteligencia%20Emocional-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Vontade de Aprender](https://img.shields.io/badge/-Vontade%20de%20Aprender-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
@@ -151,4 +153,3 @@
 ![Trabalho em Equipe](https://img.shields.io/badge/-Trabalho%20em%20Equipe-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Integridade](https://img.shields.io/badge/-Integridade-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Growing Mindset](https://img.shields.io/badge/-Growing%20Mindset-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-</center>
